@@ -101,6 +101,7 @@ You can use any image from the `sample_images` directory to test the pipeline.
 The Small Inception classification model is included in this repository.
 
 The Mask R-CNN model file is not included because its size exceeds GitHub's upload limit.
+"https://drive.google.com/file/d/1ICCCW52t7g30tET3sHgo3iH3gfORf134/view?usp=drive_link"
 
 To run the complete project, place the pretrained file below in the project root directory:
 
